@@ -35,7 +35,7 @@ This project implements a convolutional neural network (CNN) using TensorFlow to
 
 To train the model, run the following command:
 ```bash
-python <your_script_name>.py
+python CNNImageClassification.py
 ```
 
 ## Results
