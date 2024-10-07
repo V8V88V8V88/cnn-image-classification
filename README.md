@@ -15,8 +15,8 @@ This project implements a convolutional neural network (CNN) using TensorFlow to
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/V8V88V8V88/cnn-image-classification.git
+   cd cnn-image-classification
    ```
 
 2. Install the required packages:
