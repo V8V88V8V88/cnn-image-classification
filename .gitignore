@@ -1,0 +1,13 @@
+# Ignore model weights
+saved_models/
+*.h5
+*.ckpt
+
+# Ignore python cache files
+__pycache__/
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large datasets or any files not meant for version control
+data/
