@@ -9,7 +9,7 @@ You can run the code directly in Google Colab using the following link:
 
 ## Requirements
 
-- Python 3.x
+- Python 3.6 (min)
 - TensorFlow
 - Matplotlib
 - NumPy
